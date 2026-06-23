@@ -79,15 +79,16 @@ DELETE /api/detail/<id>/
 ## Screenshots
 
 ### Get Tasks
-
+![Get Page](get.png)
 
 ### Post Task
-
+![Post Page](post.png)
 
 ### Put Task
-
+![Put Page](put.png)
 
 ### Delete Task
+![Delete Page](delete.png)
 
 ## Learning Outcomes
 
